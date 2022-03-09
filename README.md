@@ -1,5 +1,12 @@
-Верстка сайта. Если нужна данная верстка, то свяжитесь со мной 
-контакт для связи, в теме пожалуйста укажите что с GitHub по интересующей верстке.
-mark545154@mail.ru 
-safari
-Посмотреть как выглядит верстка можно по ссылке https://mark545154.github.io/safari/
+This project used:
+1. HTML5 website layout
+2. CSS (styles)
+3. jQuery (plugin)
+4.jquery fancybox
+5.jquery magnific popup
+6.slick slider
+7. Adding fonts (for a pleasant impression of the presented page)
+8. Adaptive for mobile version
+9. Used figma layout
+
+This work was done to increase the portfolio.
